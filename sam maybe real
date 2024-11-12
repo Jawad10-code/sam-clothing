@@ -1,0 +1,12 @@
+sam-clothing-website/
+├── index.html            // Home Page
+├── products.html         // All Products Page
+├── about.html            // About Us Page
+├── contact.html          // Contact Page
+├── css/
+│   └── styles.css        // Main stylesheet
+├── js/
+│   └── script.js         // Main JavaScript file
+└── images/
+    ├── hero-bg.jpg       // Hero section background
+    └── product1.jpg      // Sample product images
